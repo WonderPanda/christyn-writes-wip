@@ -22,9 +22,11 @@ export default () => (
       return (
         <nav className="bg-primary h-16 shadow-md flex items-center justify-between flex-wrap p-4">
           <div className="flex items-center flex-no-shrink text-white mr-6">
-            <span className="font-semibold font-sans text-xl tracking-tight">
-              Christyn Writes
-            </span>
+            <Link to="/" className="no-underline text-white">
+              <span className="font-semibold font-sans text-xl tracking-tight">
+                Christyn Writes
+              </span>
+            </Link>
           </div>
           <div className="block flex-grow lg:flex lg:items-center lg:w-auto text-sm">
             {categories.map(x => (

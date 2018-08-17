@@ -16,7 +16,7 @@ export default ({ post }: { post: MarkdownRemark }) => {
         <p className="inline-block font-bold text-base mb-2 bg-secondary-darkest px-3 py-2 mb-5 mt-2 text-white">
           {frontmatter.category}
         </p>
-        <Link to={post.fields.slug}>
+        <Link to={post.fields.slug} className="no-underline text-black">
           <p className="font-bold text-xl mb-2">{frontmatter.title}</p>
         </Link>
         <p className="text-grey-darker text-base">{frontmatter.description}</p>
