@@ -13,12 +13,16 @@ export default ({ data }: { data: { markdownRemark: MarkdownRemark } }) => {
     <Layout>
       <div className="px-4 lg:px-0 lg:flex mt-4">
         <div className="lg:w-3/5">
-          <p className="text-3xl font-semibold mb-2 mt-10">
+          <p className="text-3xl font-semibold mb-4 mt-10">
             {post.frontmatter.title}
           </p>
-          <p className="inline-block font-bold font-sans text-base mb-4 bg-secondary-darkest px-3 py-2 mb-5 mt-2 text-white">
-            {post.frontmatter.category}
-          </p>
+          <div className="flex items-center mb-4">
+            <p className="italic">{post.frontmatter.date}</p>
+            <span className="italic mx-3">in</span>
+            <p className="inline-block font-bold font-sans text-base bg-secondary-darkest px-3 py-2 text-white">
+              {post.frontmatter.category}
+            </p>
+          </div>
           <HtmlContent
             className={`${styles.post} font-sans`}
             content={post.html}
