@@ -13,6 +13,7 @@ module.exports = {
       options: {
         plugins: []
       }
-    }
+    },
+    'gatsby-plugin-typescript-css-modules'
   ]
 };

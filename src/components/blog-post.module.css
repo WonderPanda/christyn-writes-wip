@@ -1,0 +1,21 @@
+.post h2 {
+  margin-top: 25px;
+  margin-bottom: 8px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.post p {
+  margin-bottom: 20px;
+  font-size: 16px;
+  line-height: 18.4px;
+}
+
+.post img {
+  width: 90%;
+  border-radius: 0.25rem;
+}
+
+.post a {
+  color: #117aa8;
+}

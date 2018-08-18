@@ -202,6 +202,7 @@ module.exports = {
 
   fonts: {
     sans: [
+      'Karla',
       '"Open Sans"',
       'system-ui',
       'BlinkMacSystemFont',

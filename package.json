@@ -12,11 +12,13 @@
   "dependencies": {
     "gatsby": "next",
     "gatsby-plugin-typescript": "^2.0.0-beta.9",
+    "gatsby-plugin-typescript-css-modules": "^1.0.4",
     "gatsby-source-filesystem": "^1.5.39",
     "gatsby-transformer-remark": "^1.7.44",
     "lodash": "^4.17.10",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
+    "typeface-karla": "^0.0.54",
     "typeface-open-sans": "^0.0.54"
   },
   "devDependencies": {
