@@ -14,13 +14,13 @@ export default ({
   const { edges: posts } = data.allMarkdownRemark;
   return (
     <Layout>
-      <h1 className="text-3xl text-primary-darkest mt-10 mb-6">
+      <h1 className="text-3xl text-primary-darkest mt-10 mb-6 ml-4">
         Tagged > {pageContext.tag}
       </h1>
 
       <div className="flex flex-wrap mt-4">
         {posts.map(({ node: post }) => (
-          <div className="w-1/3" key={post.id}>
+          <div className="sm:w-1/2 lg:w-1/3" key={post.id}>
             <SmallCard post={post} />
           </div>
         ))}

@@ -14,7 +14,7 @@ export default ({
   const { edges: posts } = data.allMarkdownRemark;
   return (
     <Layout>
-      <h1 className="text-3xl text-primary-darkest mt-10 mb-6">
+      <h1 className="text-3xl text-primary-darkest mt-10 mb-6 ml-4">
         Category > {pageContext.category}
       </h1>
 

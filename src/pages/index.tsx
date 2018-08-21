@@ -57,8 +57,8 @@ export default () => (
                   <VerticalBlogCard key={post.id} post={post} />
                 ))}
               </div>
-              <div className="lg:w-2/5 px-12">
-                <div className="bg-white border-t border-primary-darkest p-6 shadow rounded flex flex-col items-center">
+              <div className="lg:w-2/5 lg:px-12 mb-12">
+                <div className="bg-white max-w-md border-t border-primary-darkest p-6 shadow rounded flex flex-col items-center">
                   <img src="img/christyn.jpg" className="w-32" alt="Christyn" />
                   <p className="mt-4">
                     I'm a writer by heart and a nerd by day. I love food, books,
@@ -67,7 +67,7 @@ export default () => (
                     with you.
                   </p>
                 </div>
-                <div className="bg-white border-t border-primary-darkest p-6 mt-10 shadow rounded flex flex-col">
+                <div className="bg-white max-w-md border-t border-primary-darkest p-6 mt-10 shadow rounded flex flex-col">
                   <p className="text-lg text-primary-dark">Tags</p>
                   <div className="py-4">
                     {tagGroups.map(tag => (
