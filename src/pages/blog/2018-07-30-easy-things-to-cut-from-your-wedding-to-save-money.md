@@ -9,7 +9,11 @@ image: /img/can-you-guess-which-one-of-these-stunning-dresses-only-costs-78_.jpg
 category: Life
 tags:
   - weddings
+seo:
+  - weddings
   - budgets
+  - cheap
+  - saving money
 ---
 According to The Knot, in 2016 the average wedding cost over $35,000. For one day. Just think about that for a second. I'm imagining seeing $35,000 in my bank account one day, having a party, and then watching that $35,000 go to $0 and I'm now hyperventilating. I know that some of you are saying, "but how can you put a price tag on the memory?" Do you know how many really amazing dates you could do for that much money? Do you know how many trips you could take with that money? Those are both memory-building experiences too, and you'd have more of them. Yikes. 
 

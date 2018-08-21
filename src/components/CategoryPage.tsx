@@ -1,12 +1,30 @@
 import { graphql } from 'gatsby';
 import * as React from 'react';
+import { Query } from '../graphql-types';
 import Layout from './Layout';
+import SmallCard from './SmallCard';
 
-export default ({ data }) => {
+export default ({
+  pageContext,
+  data
+}: {
+  pageContext: { category: string };
+  data: Query;
+}) => {
+  const { edges: posts } = data.allMarkdownRemark;
   return (
     <Layout>
-      <div>Category Page</div>
-      <p>{JSON.stringify(data)}</p>
+      <h1 className="text-3xl text-primary-darkest mt-10 mb-6">
+        Category > {pageContext.category}
+      </h1>
+
+      <div className="flex flex-wrap mt-4">
+        {posts.map(({ node: post }) => (
+          <div className="sm:w-1/2 lg:w-1/3" key={post.id}>
+            <SmallCard post={post} />
+          </div>
+        ))}
+      </div>
     </Layout>
   );
 };
@@ -18,7 +36,6 @@ export const query = graphql`
       sort: { fields: [frontmatter___date], order: DESC }
       filter: { frontmatter: { category: { eq: $category } } }
     ) {
-      totalCount
       edges {
         node {
           fields {
@@ -26,6 +43,7 @@ export const query = graphql`
           }
           frontmatter {
             title
+            image
           }
         }
       }

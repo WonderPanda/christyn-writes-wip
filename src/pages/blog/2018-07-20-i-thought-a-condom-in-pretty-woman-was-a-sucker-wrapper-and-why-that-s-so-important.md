@@ -13,9 +13,15 @@ category: Love and Sex
 tags:
   - sex
   - pop culture
+seo:
+  - sex
+  - pop culture
   - movies
+  - pretty woman
+  - innocence
+  - parenting
 ---
-My mom and I used to watch girly movies together all of the time. I saw the oldie classics with Doris Day and Rock Hudson like _Pillow Talk_ and _Lover Come Back._ We watched _Grease _so often that we could sing along with all of the songs and quote almost the entire movie. We would cuddle up on the couch and watch_ You've Got Mail_, _My Best Friend's Wedding_, _Runaway Bride_, and, of course, _Pretty Woman_. I've watched those movies so many times I think I could re-count them line for line if I had to. 
+My mom and I used to watch girly movies together all of the time. I saw the oldie classics with Doris Day and Rock Hudson like _Pillow Talk_ and _Lover Come Back._ We watched _Grease_ so often that we could sing along with all of the songs and quote almost the entire movie. We would cuddle up on the couch and watch _You've Got Mail_, _My Best Friend's Wedding_, _Runaway Bride_, and, of course, _Pretty Woman_. I've watched those movies so many times I think I could re-count them line for line if I had to. 
 
 We watched these movies when I was quite young (which, by the way, is part of the reason why I think that I turned out to be an absolutely hopeless romantic. How could I not be?), and I never thought of them as anything but good, clean, family fun. 
 

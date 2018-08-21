@@ -8,9 +8,12 @@ description: >-
 image: /img/laptop-1478611_1920.jpg
 category: Writing
 tags:
+  - freelancing
+seo:
   - writing
   - freelancing
   - productivity
+  - tools
 ---
 _Okay, so first thing is first, I will always be fully transparent with all of my articles. If I'm being payed to review something, I will tell you. I am not getting any kind of kickback for talking about this product. It's just a tool that I have been using and really enjoy, and want to share that joy with other freelancers._
 

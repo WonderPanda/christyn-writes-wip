@@ -9,7 +9,11 @@ image: /img/perfectly-flawed.jpg
 category: Life
 tags:
   - self-esteem
-  - mental health
+seo:
+  - body positivity
+  - self esteem
+  - self worth
+  - mental health self love
 ---
 Before I start this article I want to admit something. There are some days that I hate how I look. All I can see when I look in a mirror is my flaws, staring at me. All I can see is bad teeth, a giant nose, a fat belly, oddly spaced boobs, and fat legs. Of course, if I'm being honest with myself these moments of self-hate usually come after binge-consuming some kind of social media where everyone looks beautiful and flawless. But anyway, I have those days. 
 

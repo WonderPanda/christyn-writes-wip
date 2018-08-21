@@ -8,9 +8,12 @@ description: >-
 image: /img/cake-727854_1920.jpg
 category: Food
 tags:
+  - baking
+seo:
   - cake
   - baking
   - chocolate
+  - tips
 ---
 Hi. My name is Christyn and I am a cake snob. I am that annoying person who will talk about the moistness and crumb texture any time that someone orders a cake or cupcakes at the office. Yes, I can tell when someone used a box cake mix. Yes, I can tell if the frosting on your cupcakes came from a can, is italian buttercream, french buttercream, or made with margarine. 
 

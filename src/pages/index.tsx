@@ -1,4 +1,5 @@
-import { graphql, StaticQuery } from 'gatsby';
+import { graphql, Link, StaticQuery } from 'gatsby';
+import * as _ from 'lodash';
 import * as React from 'react';
 import 'typeface-karla';
 import 'typeface-open-sans';
@@ -70,12 +71,18 @@ export default () => (
                   <p className="text-lg text-primary-dark">Tags</p>
                   <div className="py-4">
                     {tagGroups.map(tag => (
-                      <span
+                      <Link
+                        to={`/tags/${_.kebabCase(tag.fieldValue)}`}
+                        className="no-underline text-black"
                         key={tag.fieldValue}
-                        className="inline-block mb-2 hover:bg-primary-darkest hover:text-white font-sans text-primary-darkest bg-primary-lightest rounded-full px-3 py-1 text-xs font-semibold mr-2"
                       >
-                        {tag.fieldValue}
-                      </span>
+                        <span
+                          key={tag.fieldValue}
+                          className="inline-block mb-2 hover:bg-primary-darkest hover:text-white font-sans text-primary-darkest bg-primary-lightest rounded-full px-3 py-1 text-xs font-semibold mr-2"
+                        >
+                          {tag.fieldValue}
+                        </span>
+                      </Link>
                     ))}
                   </div>
                 </div>

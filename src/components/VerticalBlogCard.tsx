@@ -1,6 +1,6 @@
 import { Link } from 'gatsby';
+import * as _ from 'lodash';
 import * as React from 'react';
-import 'typeface-karla';
 import { MarkdownRemark } from './../graphql-types';
 
 export default ({ post }: { post: MarkdownRemark }) => {
@@ -28,12 +28,18 @@ export default ({ post }: { post: MarkdownRemark }) => {
       </div>
       <div className="px-6 py-4">
         {frontmatter.tags.map(tag => (
-          <span
+          <Link
+            to={`/tags/${_.kebabCase(tag)}`}
+            className="no-underline text-black"
             key={tag}
-            className="inline-block font-sans hover:bg-primary-darkest hover:text-white text-primary-darkest bg-primary-lightest rounded-full px-3 py-1 text-xs font-semibold mr-2"
           >
-            {tag}
-          </span>
+            <span
+              key={tag}
+              className="inline-block font-sans hover:bg-primary-darkest hover:text-white text-primary-darkest bg-primary-lightest rounded-full px-3 py-1 text-xs font-semibold mr-2"
+            >
+              {tag}
+            </span>
+          </Link>
         ))}
       </div>
     </div>

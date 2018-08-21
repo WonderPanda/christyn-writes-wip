@@ -8,23 +8,25 @@ description: >-
 image: /img/hand-plant-leaf-flower-petal-orange-986306-pxhere.com.jpg
 category: Life
 tags:
-  - wedding
+  - weddings
+seo:
+  - weddings
   - wedding planning
   - engaged
   - marriage
   - questions
   - advice
+  - tips
 ---
 So your wonderful and loving fiance pops the question (or maybe you asked them) and now your head is spinning with love and excitement and wedding things. Once you have a ring on your finger it seems like the first things people ask you is if you’ve set the date and what kind of wedding you want to have. You might feel pressure to start answering some of these questions, but just put them off for now because you and your fiance have a few things to figure out together first. 
 
-
-
-## 1. How important is tradition to you? 
+## 1. How important is tradition to you?
 
 You might be a super traditional bride who wants the white dress, the do not see the bride before she walks down the aisle and the whole something borrowed something blue thing. Or maybe you don’t really care about tradition and find it to be pointless and annoying. You should really think about what, if any, traditions are important to you and also ask your future hubby. He might surprise you and be a super traditionalist! Figuring out where you both stand is important. 
 
+Make sure that you’re completely honest with yourself and your groom-to-be. He might think that the bouquet toss is completely pointless and unnecessary but if you get excited picturing yourself tossing flowers into a crowd of your single gal pals, then it’s important to be honest with yourself and him about it. He isn’t a mind reader. 
 
-Make sure that you’re completely honest with yourself and your groom-to-be. He might think that the bouquet toss is completely pointless and unnecessary but if you get excited picturing yourself tossing flowers into a crowd of your single gal pals, then it’s important to be honest with yourself and him about it. He isn’t a mindreader. 
+![](/img/bouquet_meme.jpg)
 
 ## 2. What is your budget?
 
@@ -36,6 +38,8 @@ Before setting the budget, do some research together to get an idea of what thin
 
 If you think that your parents or his parents might be contributing a bit to the wedding, then that is great, but don’t count that in right now. This budget should be fully based of what the two of you can actually afford. That way anything from your parents will just be bonus amounts and you can put the money you would have saved for the wedding just in to your regular savings. 
 
+![](/img/wedding-budget.jpg)
+
 ## 3. What are the most important aspects of the wedding to you?
 
 A friend of mine got married this year and for him, the most important part of the whole wedding was the food. For some people, it might be the music. For others, it’s having a beautiful dress. Maybe it’s having a unique venue! Or a big church wedding. Or having a big wedding party to include all of your best friends. Maybe the most important aspect is a ceremony that is full of sentimental aspects. Or, maybe it’s having a big party for a reception. Whatever they are, write them down. 
@@ -43,6 +47,8 @@ A friend of mine got married this year and for him, the most important part of t
 Defining what is most important to you and what is most important to your fiance is going to help figure out what areas you want to invest the money in and what areas you’re willing to compromise in. It’s also a good idea to write down what are the least important things to you. Maybe you could care less about having a big wedding cake. That will open up a lot of different and more affordable dessert options when it comes to the budget. 
 
 Once you have the most important aspects for him and for you written down, keep it somewhere safe. It’s a great thing to have and to refer back to when you’ve been on Pinterest for 2 hours straight and now want to do a million things that are outside of your budget. For my fiance and I, having a family focused wedding was the most important thing for both of us, so we planned a wonderfully intimate ceremony for just family. But as I would scroll through Pinterest and see these amazing ideas that are more suited for a bigger and more expensive wedding, I’d have to stop myself and remember what is actually important to me on this big day, knowing that I did not want debt at the end of this. 
+
+![](/img/marriage-636018_1280.jpg)
 
 ## 4. Who do you absolutely need to celebrate your big day with you?
 
@@ -58,6 +64,8 @@ Once you have that key group, you can start to make decisions together about num
 
 Remember that you are not obligated to invite anyone.
 
+![](/img/ask-me-again-y4k510.jpg)
+
 ## 5. What vibes/themes do you want for your wedding?
 
 If your fiance is thinking of a nerdy wedding where your guests hold up lightsabers to send you guys off, rather than blowing bubbles at you, but you’re thinking that you want a very elegant wedding with champagne and truffles and a live harpist playing during your reception, then those are two very different weddings. 
@@ -66,7 +74,9 @@ Start with vibes. Do you want a party vibe? Elegant? Casual? Formal? My fiance a
 
 Once you two can agree on a vibe, try some themes. No, you do not have to have a themed wedding, but you can also think of theme as style. Go you want glitz and glam? Do you want rustic chic? The idea here is to agree on some basics so that while the two of you are keeping your eyes out for decor, you’re not accomplishing two very separate goals. 
 
-## 6. Why are you getting married? 
+![](/img/akemy-mory-635815-unsplash.jpg)
+
+## 6. Why are you getting married?
 
 This is a biggie. It should probably be something that you talk about before the proposal, but in case you didn’t and the proposal was a complete and total surprise, talk about it now. Why do you want to get married? Is it part of your religious beliefs? Do you just want something that makes it “official”? Do you just want to have a wedding? Is it to make your family happy?
 
@@ -74,5 +84,6 @@ If I’ve told you to be honest through the other questions, in this question be
 
 There is no wrong answer here (except maybe you make someone else happy or if you don’t really want to but feel like you have to). As long as you’re both on the same page and feel good about your reasons, then you’re golden. You just want to be sure that you’re both on the same page for why you’re getting married.
 
+![](/img/what-if-people-zbm2jg.jpg)
 
-Okay, now that you guys have put everything out in the open and are on the same page for all of these questions, the fun begins! Enjoy this time of planning, dreaming, and putting together the day that marks the start of your lives together as a married couple. 
+Okay, now that you guys have put everything out in the open and are on the same page for all of these questions, the fun begins! Enjoy this time of planning, dreaming, and putting together the day that marks the start of your lives together as a married couple.

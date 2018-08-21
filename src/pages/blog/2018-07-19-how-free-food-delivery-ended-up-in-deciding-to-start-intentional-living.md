@@ -8,10 +8,17 @@ description: >-
 image: /img/millennials-using-phones.jpg
 category: Love and Sex
 tags:
+  - budgeting
+  - dates
+seo:
   - relationships
   - love
   - budgeting
   - dating
+  - dates
+  - intentional
+  - intentional living
+  - mindfulness
 ---
 It started with a promotion from Uber Eats for free delivery. 
 

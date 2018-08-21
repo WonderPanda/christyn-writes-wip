@@ -9,8 +9,11 @@ description: >-
 image: /img/pspe-0410.jpg
 category: Love and Sex
 tags:
-  - wedding
+  - weddings
+seo:
+  - weddings
   - relationships
+  - love
 ---
 It's exactly one week and two days since I got married, and honestly, I've got the post-wedding blues. Now, let me set the stage for you. I have never been of the belief that your wedding day should be the best day of your life. Because once it's over...what? That's it? It's all downhill from there? You just promised forever to your one and only true love and suddenly it can't get any better than that one day? I don't subscribe to those notions. 
 

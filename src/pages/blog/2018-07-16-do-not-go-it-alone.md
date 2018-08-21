@@ -8,9 +8,12 @@ description: >-
 image: /img/city-1759377_1920.jpg
 category: Writing
 tags:
+  - freelancing
+seo:
   - writing
   - freelance writing
   - remote
+  - advice
 ---
 Okay, so this is both a blessing and curse. I’m sure that there are many of you out there who partly are drawn to the aspect of Freelance because it warms your introverted heart to be able to spend your days alone with just your thoughts, your words, and your laptop (and maybe a furry companion or two). But let me be clear about this, you need other people. 
 
@@ -40,6 +43,7 @@ You can go through the trouble and research on your own, or you can reach out an
 * [Cult Of Copy Job Board](https://www.facebook.com/groups/copyjobs/)
 * [Female Digital Nomads](https://www.facebook.com/groups/138860990111757/)
 * [Female Freelance Writers](https://www.facebook.com/groups/FemaleFreelanceWriters/)
+
 
 This is not by any means a be-all-end-all list. As you can see a lot of the above groups are for female writers because I love being inspired by other women. I just feel a real sense of connection working with like minded women. But there are all kinds of groups out there. Find some general ones as well as ones that might be more niche to your kind of writing or your personality. 
 

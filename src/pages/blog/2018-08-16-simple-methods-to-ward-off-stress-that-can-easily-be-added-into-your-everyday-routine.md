@@ -11,8 +11,13 @@ description: >-
 image: /img/tomoko-uji-630443-unsplash.jpg
 category: Life
 tags:
+  - mental health
+seo:
   - wellness
+  - stress
   - stress management
+  - relaxation
+  - mental health
 ---
 Stress has all kinds of negative effects in our lives. It can even effect things like how you digest food. When I worked for Diply.com I had terrible digestive issues for almost my entire time there. My stomach was bloated, gassy, and sore almost every day. I was trying to figure out what was causing the issue. I cut out dairy. I tried cutting out wheat. I kept a food diary. I had settled on figuring that I had a sensitivity to too much fiber and cut out things like apples, which I loooove. Even then, even when I was careful, I still would have days that hurt. 
 
