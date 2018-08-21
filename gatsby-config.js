@@ -1,4 +1,8 @@
 module.exports = {
+  siteMetadata: {
+    title: 'Christyn Writes',
+    powerLevel: 'Over 9000'
+  },
   plugins: [
     'gatsby-plugin-typescript',
     {
